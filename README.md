@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=1E90FF&height=120&section=header"/>
 
-<h2 align="center">Procuro sempre me inovar e evoluir.</h2> <br><br> <p align="center"> Atualmente sou estudante tecnico em Desenvolvimento de Sistemas pelo Porto Digital, <strong>penso em seguir na área de engenharia de software</strong>. Hoje, eu sou um estudante sempre em busca de aprender.</p>&nbsp;
+<h2 align="center">Busco evoluir cada vez mais.</h2> <br><br> <p align="center"> No momento, estou estudando TI e <strong>procurando melhorar cada vez mais</strong>. Atualmente, estou no meu 2 ano na ETE Porto Digital.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dgDavi&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Davi Gomes github stats" /> 
