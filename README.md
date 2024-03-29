@@ -1,6 +1,6 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#6A5ACD&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#5A75EF&height=120&section=header"/>
 
-<h2 align="center">Buscando evoluir cada vez mais.</h2> <br><br> <p align="center"> No momento, estou estudando TI e <strong>procurando melhorar cada vez mais</strong>. Atualmente, estou no meu 2 ano na ETE Porto Digital.</p>&nbsp;
+<h2 align="center">Buscando evoluir cada vez mais.</h2> <br><br> <p align="center"> Olá, me chamo Davi, e no <srtrong>momento estou estudando TI e procurando melhorar cada vez mais</srtrong>. Atualmente, estou no meu 2º ano na ETE Porto Digital.</p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=dgDavi&show_icons=true&count_private=true&hide_border=true&title_color=ff91a4&icon_color=ff91a4&text_color=c9d1d9&bg_color=0d1117" alt="Davi Gomes github stats" /> 
@@ -37,4 +37,4 @@
 <div> 
 <a href = "mailto:contato.davi46796@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 </div>
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6A5ACD&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=#5A75EF&height=120&section=footer"/>
