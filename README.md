@@ -23,23 +23,3 @@
 [![Spring Boot](https://img.shields.io/badge/Spring%20Boot-6DB33F?logo=springboot&logoColor=fff)](#)
 
 ###
-
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
-
-<p align="left">
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api?username=DgDavi&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"
-    width="420"
-  />
-    &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-  <img
-    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DgDavi&layout=compact&theme=tokyonight&locale=pt-br"
-    width="390"
-  />
-</p>
-
-###
-
